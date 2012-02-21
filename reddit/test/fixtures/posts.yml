@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  scaffold: MyString
+  url: MyString
+  description: MyString
+  created_at: 2012-02-20 22:46:08
+  points: 1
+
+two:
+  scaffold: MyString
+  url: MyString
+  description: MyString
+  created_at: 2012-02-20 22:46:08
+  points: 1
